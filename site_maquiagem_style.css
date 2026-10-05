@@ -1,0 +1,13 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:Arial;background:#fff0f5;color:#333;}
+header{background:#d63384;padding:15px;}
+nav{display:flex;justify-content:space-between;align-items:center;width:90%;margin:auto;}
+nav h1{color:#fff;}
+nav ul{list-style:none;display:flex;}
+nav li{margin-left:20px;}
+nav a{color:#fff;text-decoration:none;font-weight:bold;}
+.hero{text-align:center;padding:40px;}
+.hero h2{color:#d63384;}
+.hero img{width:300px;border-radius:10px;margin-top:15px;}
+.content{text-align:center;padding:40px;}
+footer{background:#d63384;color:#fff;text-align:center;padding:15px;}
